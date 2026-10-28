@@ -1,0 +1,16 @@
+{
+  "login": {
+    "userType": [
+      "valid username",
+      "invalid username"
+    ],
+    "passwordType": [
+      "valid password",
+      "invalid password"
+    ],
+    "dateType": [
+      "valid date",
+      "invalid date"
+    ]
+  }
+}
