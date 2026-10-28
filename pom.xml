@@ -12,6 +12,7 @@
     <properties>
         <maven.compiler.release>21</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <cucumber.version>7.18.1</cucumber.version>
     </properties>
 
     <dependencies>
