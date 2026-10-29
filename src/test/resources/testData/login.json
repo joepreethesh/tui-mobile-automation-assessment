@@ -2,7 +2,7 @@
   {
     "username": "testuser",
     "password": "Test@12",
-    "date": "12/2/2026",
+    "date": "10/10/2026",
     "expectedScreen": "Products",
     "criteria": [
       "valid username",

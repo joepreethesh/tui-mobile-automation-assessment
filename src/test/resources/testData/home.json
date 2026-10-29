@@ -1,0 +1,13 @@
+[
+  {
+    "username": "testuser",
+    "password": "Test@12",
+    "date": "10/10/2026",
+    "expectedScreen": "Home",
+    "criteria": [
+      "valid username",
+      "valid password",
+      "valid date"
+    ]
+  }
+]
